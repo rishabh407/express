@@ -8,8 +8,7 @@ You will need to install [wrk](https://github.com/wg/wrk/blob/master/INSTALL) in
 
 To run the benchmarks, first install the dependencies `npm i`, then run `make`
 
-The output will look something like this:
-
+The output will looks like
 ```
   50 connections
   1 middleware
